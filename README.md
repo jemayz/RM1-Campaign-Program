@@ -1,4 +1,4 @@
-# RM1-Campaign-Program-Website
+# RM1-Campaign-Website
 This repository includes the source code and images used in the making of RM1 Campaign Website. 
 This engaging website is skillfully crafted to inspire a spirit of generosity, fostering a culture of donations within the vibrant community of IIUM staff.
 ## JavaScript Interaction
