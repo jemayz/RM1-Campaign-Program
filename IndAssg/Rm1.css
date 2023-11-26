@@ -1,0 +1,139 @@
+h1{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: black;
+}
+
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 25px;
+  font-style: italic;
+  color: black;
+  text-align: center;
+}
+
+ul{
+  font-family: serif;
+  font-size: 18px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("animationback.jpg") ; 
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
+
+header {
+  background-color: rgba(86, 97, 86, 0.75);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  height: 15%;
+}
+
+article{
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(210, 166, 129, 0.75);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(205, 160, 120, 0.75);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+
+footer{
+  max-width: 800px;
+  height: 10%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(200, 155, 117, 0.75);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+
+#iiumlogo{
+  max-width: 70%;
+  height: 120px;
+}
+
+#singgit{
+  max-width: 50%;
+  height: 75px;
+}
+
+#donation{
+  max-width: 50%;
+  height: 75px;
+}
+
+form {
+  margin-top: 10px;
+  font-size: 18px;
+  font-family: serif;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  background-color: rgba(200, 155, 117, 0.75);
+  color: black;
+  font-size: 18px;
+  font-family: serif;
+  border: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: opacity 0.15s;   
+}
+
+button:hover{
+  background-color: rgba(125, 84, 50, 0.91);
+  color: white;
+  
+}
+
+button:active{
+  opacity: 0.5;
+}
+
+.quranVerse{
+  font-family: serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+  color: black;
+}
+
+.tagline{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+}
+
+.required{
+  color: brown;
+}
